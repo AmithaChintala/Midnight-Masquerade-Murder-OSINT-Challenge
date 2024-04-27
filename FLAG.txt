@@ -1,0 +1,2 @@
+Flag format: The flag format for this challenge is:
+NULL{} 
