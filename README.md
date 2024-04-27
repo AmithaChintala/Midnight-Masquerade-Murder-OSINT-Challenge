@@ -16,8 +16,4 @@ Digital Footprint Examination: Analyze suspects' online activity and communicati
 
 Satellite Imagery Analysis: Use open-source satellite imagery to reconstruct events and identify escape routes.
 
-Puzzle Solving: Solve cryptographic challenges to unlock hidden clues and rooms.
-
-Public Records Search: Investigate suspects' public records for criminal history and financial transactions.
-
 Participants will utilize OSINT techniques to solve the mystery and unmask the killer at Ravenwood Manor's Midnight Masquerade Ball.
